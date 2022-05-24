@@ -76,6 +76,7 @@
 #define smrJAgrass 8366677
 #define smrJJtaxiway 9474192
 #define smrKKBlue 16755200
+#define smrKKtaxiwaylabel 6618980
 #define smrLLConstruction 80
 #define smrLLDarkGrey 3289650
 #define smrLLHold 9895936
